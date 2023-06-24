@@ -1,0 +1,19 @@
+.joia-container {
+  text-align: center;
+  letter-spacing: -1px;
+}
+
+.imagem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 200px; 
+  height: 250px;
+  border: 1px solid #0f0e0e;
+  border-radius: 40px;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
